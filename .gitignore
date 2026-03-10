@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.png
+tinyshakespeare.txt
+.env
